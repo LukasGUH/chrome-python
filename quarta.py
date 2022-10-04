@@ -1,9 +1,9 @@
-#passo 2: entendimento da areaEmpressa
-#passo 3: extraçãoObtenção de dados
-#passo 4: ajuste de dados (tratamento limpeza)
-#passo 5: analise exploratoria
-#passo 6: modelagem + algoritimos( aqui que entra a inteligencia artificial, se necessario)
-#passo 7: interpretação de resultados
+#passo 1: entendimento da areaEmpressa
+#passo 2: extraçãoObtenção de dados
+#passo 3: ajuste de dados (tratamento limpeza)
+#passo 4: analise exploratoria
+#passo 5: modelagem + algoritimos( aqui que entra a inteligencia artificial, se necessario)
+#passo 6: interpretação de resultados
 
 #importar base de dados
 import pandas as pd
