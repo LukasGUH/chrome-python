@@ -1,4 +1,3 @@
-#passo 1: entendimento do desafio
 #passo 2: entendimento da areaEmpressa
 #passo 3: extraçãoObtenção de dados
 #passo 4: ajuste de dados (tratamento limpeza)
@@ -13,7 +12,6 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
 tabela = pd.read_csv('advertising.csv')
-#print(tabela)
 
 #analise exploratótia
 
